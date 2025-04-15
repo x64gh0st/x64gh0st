@@ -11,6 +11,4 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I’ve turned vulnerable IoT devices into cybersecurity training platforms, showcasing my commitment to continuous improvement and innovation in digital protection.!---
-x64gh0st/x64gh0st is a ✨ special ✨ repository because its 
---->
+⚡ Fun fact: I’ve turned vulnerable IoT devices into cybersecurity training platforms, showcasing my commitment to continuous improvement and innovation in digital protection.
